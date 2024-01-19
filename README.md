@@ -22,7 +22,6 @@ This lead to continuous and **random** generation of Chladni patterns, but it ca
 This was exetremely easy to do with the help of the MoviePy library to create .gif files. The speed, resolution and quality can easily be changed to provide smoother GIFs than seen below.
 
 ## Generated Chladni patterns in GIF
-![chladni](https://github.com/LudoProvost/chladni-pattern-generator/assets/70982826/b9f58c11-162d-4f78-8b54-c0231e6e3b0e)
 ![chladni_var_afrom-10to10](https://github.com/LudoProvost/chladni-pattern-generator/assets/70982826/c3805ea3-d011-41a4-b83c-f88c1cbb9757)
 ![chladni_var_bfrom-2to2](https://github.com/LudoProvost/chladni-pattern-generator/assets/70982826/d991f447-1c1a-4f88-9070-082b8081e50b)
 ![chladni_var_m](https://github.com/LudoProvost/chladni-pattern-generator/assets/70982826/546223bf-df5b-4f28-befe-35e4d0534d8b)
