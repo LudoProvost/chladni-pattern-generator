@@ -10,7 +10,7 @@ The overall goal was to produce visually appealing short animations and give mys
 Chladni patterns are generated using a simple formula which takes for inputs an x and y coordinate and 4 variables (a,b,n,m). a,b,n, and m can take values between -10 and 10 (approximately).
 
 ## Results
-### Continuous generation:
+### 1. Continuous generation:
 This was the hardest part as I wanted the continuous generation to evolve randomly over time. For this, i made certain constraints dictating how each of the 4 variables (a,b,n,m) can change over time. 
 This lead to continuous and **random** generation of Chladni patterns, but it can sometimes be repetitive if only one of the variable decides to change back and forth for multiple seconds.
 
@@ -18,7 +18,7 @@ This lead to continuous and **random** generation of Chladni patterns, but it ca
 
 **The best quality achieved was ~20 FPS @ 1280x720p**, which was an improvement to the ~7 FPS i was getting at the same resolution *without* the use of JIT.
 
-### High-quality GIF
+### 2. High-quality GIF
 This was exetremely easy to do with the help of the MoviePy library to create .gif files. The speed, resolution and quality can easily be changed to provide smoother GIFs than seen below.
 
 ## Generated Chladni patterns in GIF
